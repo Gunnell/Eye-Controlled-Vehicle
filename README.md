@@ -1,7 +1,6 @@
-```markdown
 # Eye Tracking with Gaze Tracking for Arduino Vehicle Control
 
-This project utilizes computer vision and gaze tracking to detect the direction of a user's eye movements and control an Arduino-powered vehicle. The purpose of this project is to enable vehicle movement based on the user's eye direction, providing an innovative hands-free control method. The project is built using Python and leverages libraries such as OpenCV, Dlib, and the `gaze_tracking` package.
+This project utilizes computer vision and gaze tracking to detect the direction of a user's eye movements and control an Arduino-powered vehicle. The purpose of this project is to enable vehicle movement based on the user's eye direction, providing an innovative hands-free control method. The project is built using Python and leverages libraries such as OpenCV, Dlib.
 
 ## Features
 
@@ -58,4 +57,4 @@ This project utilizes computer vision and gaze tracking to detect the direction 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-```
+
