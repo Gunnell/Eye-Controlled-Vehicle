@@ -1,11 +1,13 @@
 import os
-import cv2
-import time
-import serial
 import threading
-import numpy as np
-from gaze_tracking import GazeTracking
+import time
 from collections import Counter
+
+import cv2
+import numpy as np
+import serial
+
+from gaze_tracking import GazeTracking
 
 # Initialize GazeTracking and webcam
 gaze = GazeTracking()
